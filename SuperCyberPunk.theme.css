@@ -179,8 +179,8 @@ html body .name-3BUDLf,
 .form-3gdLxP .channelTextArea-1FufC0 {
     background-color: var(--colors-bg--300);
     border: 1px solid var(--colors-primary--600);
-    -webkit-clip-path: var(--ui-notch-path);
-    clip-path: var(--ui-notch-path);
+    /*-webkit-clip-path: var(--ui-notch-path);
+    clip-path: var(--ui-notch-path);*/
     padding-right: 0.5rem;
     position: relative;
     border-radius: 0;
@@ -292,8 +292,8 @@ html body .name-3BUDLf,
 .contents-2MsGLg .scrollableContainer-15eg7h {
     border: 1px solid #5d2322;
 }
-
-.form-3gdLxP .channelTextArea-1FufC0::before,
+/*
+.form-3gdLxP .channelTextArea-1FufC0::before,*/
 .userPopout-3fydSP::before,
 .root-8LYsGj::before,
 .searchBar-jGtisZ::before,
